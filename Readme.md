@@ -1,6 +1,6 @@
 # Tailwind Components - Simple Responsive Navigation Bar
 
-## 😃 Click here for the 👉 [💥LIVE DEMO]()
+## 😃 Click here for the 👉 [💥LIVE DEMO](https://frontendfunn.github.io/tailwind-components-navigation-bar/)
 
 ---
 
