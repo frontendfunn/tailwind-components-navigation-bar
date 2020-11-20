@@ -1,10 +1,8 @@
 $(document).ready(function () {
-  $(".nav-toggler").each(function (_, navToggler) {
-    var target = $(navToggler).data("target");
-    $(navToggler).on("click", function () {
-      $(target).animate({
-        height: "toggle",
-      });
+  $(navToggler).on("click", function () {
+    var target = $(this).data("target");
+    $(target).animate({
+      height: "toggle",
     });
   });
 });
